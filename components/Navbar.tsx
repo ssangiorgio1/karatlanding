@@ -33,11 +33,11 @@ export default function Navbar() {
             <div className={`w-10 h-10 rounded-xl flex items-center justify-center transition-all duration-300 group-hover:scale-110 ${
               isScrolled ? "bg-accent" : "bg-white/20 backdrop-blur-sm border border-white/30"
             }`}>
-              <span className={`text-xl font-heading font-bold ${isScrolled ? "text-white" : "text-white"}`}>K</span>
+              <span className={`text-xl font-heading font-bold ${isScrolled ? "text-white" : "text-white"}`}>A</span>
             </div>
             <div>
               <span className={`text-xl font-heading tracking-wider transition-colors ${isScrolled ? "text-primary-dark" : "text-white"}`}>
-                KARAT
+                APEX
               </span>
               <p className={`text-xs tracking-widest font-semibold transition-colors ${isScrolled ? "text-accent" : "text-white/60"}`}>
                 OBRAS & SERVICIOS

@@ -41,7 +41,7 @@ export default function Hero() {
           <span className="text-accent">PROFESIONALES</span>
         </h1>
 
-        <p className="text-xl text-white/50 mb-10 max-w-2xl mx-auto font-light leading-relaxed animate-fade-in-up" style={{ animationDelay: "0.15s" }}>
+        <p className="text-xl text-white mb-10 max-w-2xl mx-auto font-light leading-relaxed animate-fade-in-up" style={{ animationDelay: "0.15s" }}>
           Electricidad • Plomería • Arquitectura • Climatización • Carpintería • Mendoza
         </p>
 

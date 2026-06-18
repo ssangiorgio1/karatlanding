@@ -23,7 +23,7 @@ const bebasNeue = Bebas_Neue({
 });
 
 export const metadata: Metadata = {
-  title: "KARAT | Electricista matriculado, climatización y obras en Mendoza",
+  title: "APEX | Electricista matriculado, climatización y obras en Mendoza",
   description: "Electricista matriculado en Mendoza. Instalaciones eléctricas, climatización, tableros, montajes y obras para residencial y empresas. Atención en todo Gran Mendoza. Presupuesto sin cargo.",
   keywords: [
     "electricista mendoza",
@@ -43,10 +43,10 @@ export const metadata: Metadata = {
     "electricista capital mendoza",
     "electricista residencial mendoza",
     "electricista empresas mendoza",
-    "KARAT electricista",
+    "APEX electricista",
   ],
   openGraph: {
-    title: "KARAT | Electricista matriculado, climatización y obras en Mendoza",
+    title: "APEX | Electricista matriculado, climatización y obras en Mendoza",
     description: "Electricista matriculado en Mendoza. Instalaciones eléctricas, climatización, tableros y obras para residencial y empresas en todo Gran Mendoza.",
     locale: "es_AR",
     type: "website",

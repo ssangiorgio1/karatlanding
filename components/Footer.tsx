@@ -27,10 +27,10 @@ export default function Footer() {
           <div>
             <a href="#" className="flex items-center space-x-3 mb-6 group">
               <div className="w-11 h-11 rounded-xl bg-accent flex items-center justify-center group-hover:scale-110 transition-transform">
-                <span className="text-xl font-heading text-white font-bold">K</span>
+                <span className="text-xl font-heading text-white font-bold">A</span>
               </div>
               <div>
-                <h3 className="text-xl font-heading text-white tracking-wider">KARAT</h3>
+                <h3 className="text-xl font-heading text-white tracking-wider">APEX</h3>
                 <p className="text-xs font-bold text-accent tracking-widest">OBRAS & SERVICIOS</p>
               </div>
             </a>
@@ -119,7 +119,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:contacto@karat.com.ar"
+                  href="mailto:contacto@apex.com.ar"
                   className="flex items-center space-x-3 text-white/35 hover:text-accent transition-colors text-sm group"
                 >
                   <div className="w-8 h-8 rounded-lg bg-accent/10 group-hover:bg-accent flex items-center justify-center flex-shrink-0 transition-all">
@@ -127,7 +127,7 @@ export default function Footer() {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                     </svg>
                   </div>
-                  <span>contacto@karat.com.ar</span>
+                  <span>contacto@apex.com.ar</span>
                 </a>
               </li>
             </ul>
@@ -136,10 +136,10 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <div className="text-xs text-white/20">
-            © {currentYear} KARAT. Todos los derechos reservados.
+          <div className="text-xs text-white">
+            © {currentYear} APEX. Todos los derechos reservados.
           </div>
-          <div className="flex items-center space-x-2 text-xs text-white/20">
+          <div className="flex items-center space-x-2 text-xs text-white">
             <div className="w-2 h-2 rounded-full bg-success" />
             <span>Profesionales Matriculados</span>
           </div>

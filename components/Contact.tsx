@@ -91,7 +91,7 @@ export default function Contact() {
 
                 {/* Email */}
                 <a
-                  href="mailto:contacto@karat.com.ar"
+                  href="mailto:contacto@apex.com.ar"
                   className="group flex items-center space-x-4 p-4 bg-white/10 hover:bg-white/20 rounded-2xl transition-all duration-300"
                 >
                   <div className="w-11 h-11 rounded-xl bg-white/15 border border-white/20 flex items-center justify-center text-white flex-shrink-0 group-hover:bg-white group-hover:text-accent transition-all">
@@ -101,7 +101,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="font-bold text-sm">Email</div>
-                    <div className="text-white/60 text-xs">contacto@karat.com.ar</div>
+                    <div className="text-white/60 text-xs">contacto@apex.com.ar</div>
                     <div className="text-white/40 text-xs font-semibold mt-0.5">Respuesta en 24hs</div>
                   </div>
                 </a>
